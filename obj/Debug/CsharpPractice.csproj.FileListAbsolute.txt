@@ -1,0 +1,8 @@
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\bin\Debug\CsharpPractice.exe.config
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\bin\Debug\CsharpPractice.exe
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\bin\Debug\CsharpPractice.pdb
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\obj\Debug\CsharpPractice.csproj.AssemblyReference.cache
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\obj\Debug\CsharpPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\obj\Debug\CsharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\obj\Debug\CsharpPractice.exe
+C:\Users\laxma\OneDrive\Desktop\Practicals\CsharpPractice\CsharpPractice\obj\Debug\CsharpPractice.pdb
